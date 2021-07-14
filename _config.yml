@@ -115,4 +115,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-skin: mint
+skin: dark
