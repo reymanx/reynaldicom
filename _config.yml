@@ -61,7 +61,8 @@ plugins:
 
 author:
   name   : "Arie Reynaldi"
-  avatar : "/assets/images/bio-photo.jpg"
+  #avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/photo_2.jpg"
   bio    : "nothing is impossible."
   links:
     - label: "Website"
