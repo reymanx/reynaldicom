@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: username
 github_username: username
 #minimal_mistakes_skin: default
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "slate"
 search: true
 
 # Build settings
@@ -61,8 +61,8 @@ plugins:
 
 author:
   name   : "Arie Reynaldi"
-  #avatar : "/assets/images/bio-photo.jpg"
-  avatar : "/assets/images/photo_3.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
+  #avatar : "/assets/images/photo_3.jpg"
   bio    : "nothing is impossible."
   links:
     - label: "Website"
