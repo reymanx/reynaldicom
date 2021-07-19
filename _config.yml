@@ -109,11 +109,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-  comments:
-    provider: "disqus"
-    disqus:
-      shortname: "reymanx"
+      author_profile: true  
 category_archive:
   type: liquid
   path: /categories/
