@@ -14,11 +14,12 @@ Dari dulu suka gonta ganti blog, sekedar untuk memuaskan penasaran. Udah beberap
 Sekarang mau coba pakai static web. Mirip jaman `Geocities` dulu, statatic web kita bikin dalam bentuk file. Bedanya, dulu pakai `html`, lalu langsung dipublish. Sekarang pakai, misal `Ruby`, lalu ada proses generate yg menggunakan framework, misal `Jekyll`, setelah itu langsung ditampilkan oleh server. Proses menampilkan jadi lebih cepat, karena tidak memerlukan database jadi web kita lebih cepat dikirim ke CDN atau Content Delivery Netwok dimana content kita akan disebar ke berbagai belahan dunia. Saya baru belajar, jadi kalau ada yg salah tolong kasih masukan :) 
 
 ## Apa saja yang dipakai.
+### Sisi Github / Server
 Yang saya gunakan semua "free", dalam artian selama tidak digunakan melewati kapasitas yang diperbolehkan. 
 1. [Github Pages](https://github.com) untuk menyimpan file, menampilkan dengan sub-domain milik mereka.
 2. [Cloudflare Pages](https://cloudflare.com) untuk menampilkan dengan domain sendiri.
 3. [Jekyll](https://jekyllrb.com) Static Site Generator, simple, tidak pakai database. 
-
+### Sisi Desktop/client
 Jadi ini semua yang saya pakai. Untuk desktop, saya install:
 1. [Ruby for windows](https://rubyinstaller.org/downloads/) untuk menginstall dan mengcompile Jekyll.
 2. [Github Desktop](https://desktop.gihub.com) untuk upload(commit) ke Github
