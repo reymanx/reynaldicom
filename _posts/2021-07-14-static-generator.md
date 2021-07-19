@@ -2,6 +2,7 @@
 title: "Pakai Static Site Generator"
 date: 2021-07-14 10:10:0 +0700
 toc : true
+comments : true
 categories:
   - blog
 tags:
