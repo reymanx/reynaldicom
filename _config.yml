@@ -112,7 +112,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "reymanx"
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "reymanx"
